@@ -1,5 +1,5 @@
 # master-python-for-datascience
-Linked in Learning course for Master Python for Data Science
+Linked in Learning course for Master Python for Data Science -Python-for-Data-Science-Essential-Training
 
 Learning Objectives:
 Getting started with Jupyter Notebooks
