@@ -1,10 +1,20 @@
 # master-python-for-datascience
 Linked in Learning course for Master Python for Data Science
 
-I had to go back to the basics so i can capture my understandings on python for data science
+Learning Objectives:
+Getting started with Jupyter Notebooks
+Visualizing data: basic charts, time series, and statistical plots
+Preparing for analysis: treating missing values and data transformation
+Data analysis basics: arithmetic, summary statistics, and correlation analysis
+Outlier analysis: univariate, multivariate, and linear projection methods
+Introduction to machine learning
+Basic machine learning methods: linear and logistic regression, Naïve Bayes
+Reducing dataset dimensionality with PCA
+Clustering and classification: k-means, hierarchical, and k-NN
+Simulating a social network with NetworkX
+Creating Plot.ly charts
+Scraping the web with Beautiful Soup
 
-This is to capture my understanding of python in github
+Instructor
+Lillian Pierson, P.E.
 
-It is always a good idea to record all advancements in my learnings, thus my recent commits. 
-
-Alot more commits will come in as i record my advancements towards becoming a certified data scientist. 
